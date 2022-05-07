@@ -2,7 +2,7 @@ Pillow
 pytgcalls
 ffmpeg-python
 python-arq
-Pyrogram
+pyrogram==1.4.16
 TgCrypto
 youtube_dl
 aiofiles
